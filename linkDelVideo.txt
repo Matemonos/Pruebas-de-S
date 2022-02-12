@@ -1,1 +1,8 @@
 https://watch.screencastify.com/v/ANr7LYCuuZGgw3BE5HUJ
+
+En Este corto video se muestra la ejecucion de un protocolo de autenticacion.
+
+En ambos casos nos encontramos con un sitio web del que podemos descargar imagenes
+y texto de manera sencilla, La diferencia radica en que ek segundo sitio
+necesita de unas credenciales usuario y contraseña para acceder a dichos servicios.
+De ingresar las credenciales incorrectas saldra un error de autenticacion.
